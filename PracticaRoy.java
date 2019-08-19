@@ -3,7 +3,7 @@ package roy;
 import java.util.Scanner;
 
 /**
- * @author Roy Maestre 1214715506
+ * @author Roy Maestre
  * Elabore un programa de computador que lea dos números enteros de tres 
  * dígitos y que determine e imprima el mensaje apropiado si ambos números
  * terminan en el mismo dígito.
